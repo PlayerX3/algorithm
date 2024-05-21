@@ -7,6 +7,7 @@ using namespace std;
     no：1953
     title：找出最长的超赞子字符串
     label：奇偶性
+    difcl: 困难
     variable：
         s - 字符串
         t - 字符串的字符奇偶性字典

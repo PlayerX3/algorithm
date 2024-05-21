@@ -5,6 +5,7 @@ using namespace std;
     no：2769
     title：找出最大的可达成数字
     label：水题
+    difcl: 简单
     variable：
         num - 目标值
         t - 次数

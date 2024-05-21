@@ -5,6 +5,7 @@ using namespace std;
     no：1535
     title：找出数组游戏的赢家
     label：分情况分析，遍历
+    difcl: 中等
     variable：
         arr - 数组
         k - 获胜所需回合数

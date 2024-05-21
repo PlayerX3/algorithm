@@ -5,6 +5,7 @@ using namespace std;
     no：1953
     title：你可以工作的最大周数
     label：贪心，分配方案
+    difcl: 中等
     variable：
         longest - 阶段数最长的工作的阶段数
         rest - 剩余工作的阶数总和
